@@ -71,6 +71,11 @@ I'm a Vinod and I am exploring the maze of computer Science.
 
 ## 📊 &nbsp;Stats
 
+![Vinod's Top Stacks](https://github-readme-stats.vercel.app/api/top-langs/?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Vinod's Github Stats](https://github-readme-stats.vercel.app/api?username=thevoid12&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevoid12&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+
+## 📊 &nbsp;Dev Quotes
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
