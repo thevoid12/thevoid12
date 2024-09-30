@@ -4,7 +4,7 @@
 <a href="https://twitter.com/fit_fr_nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fit_fr_nothing" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vinod-b-449541202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinod-b-449541202" height="30" width="40" /></a>
 <a href="https://medium.com/@the_void1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@the_void1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thevoidd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thevoidd1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@thevoidd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thevoidd1" height="30" width="40" /></a>
 <a href="http://www.instagram.com/_iamvinod" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="thevoidd1" height="30" width="40" /></a>
 
 # 👋 &nbsp;Hi there
