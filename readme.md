@@ -1,9 +1,8 @@
 [![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=flat&label=Twitter)](https://twitter.com/fit_fr_nothing) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/thevoid12?logo=GitHub&style=flat)](https://github.com/thevoid12) &nbsp;
 ![profile viewes](https://komarev.com/ghpvc/?username=thevoid12&style=flat)
 
-<a href="https://twitter.com/fit_fr_nothing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fit_fr_nothing" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/vinod-b-449541202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinod-b-449541202" height="30" width="40" /></a>
-<a href="https://medium.com/@the_void1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@the_void1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@thevoidd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thevoidd1" height="30" width="40" /></a>
 <a href="http://www.instagram.com/_iamvinod" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="thevoidd1" height="30" width="40" /></a>
 
