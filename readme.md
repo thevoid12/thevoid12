@@ -10,11 +10,22 @@
 I'm a Vinod and I am exploring the maze of computer Science.
 
 &nbsp;
-
+<table tableborder=0>
+	<tr>		
+		<th width="50%"><a align="center" href="https://github.com/thevoid12?tab=overview#year-list-container?">stats</a></th>
+		<th width="50%"><a align="center" href="https://github.com/thevoid12?tab=repositories?">🌟 Turn time</a></th>
+	</tr>
+	<tr>
+		<td>					
+			<img width="100%" height="auto" src="https://github-readme-stats.vercel.app/api/wakatime?username=cryptus_neoxys&custom_title=My%20Weekly%20Stats&layout=compact&theme=tokyonight" alt="stats" />
+		</td>
+		<td>
+			<img width="100%" height="auto"src="https://github-readme-streak-stats.herokuapp.com/?user=thevoid12&" alt="thevoid12" alt="consistency" />
+		</td>
+	</tr>
+	</a>
+</table>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thevoid12" alt="thevoid12" /></a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevoid12&show_icons=true&locale=en&layout=compact" alt="thevoid12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevoid12&" alt="thevoid12" /></p>
 
 ## ✏️ &nbsp;Blog posts
 
