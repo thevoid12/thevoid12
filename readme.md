@@ -30,7 +30,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [College placements for dummies](https://medium.com/@iamvinod2001/3rd-year-cse-college-placements-guide-for-those-who-did-nothing-for-the-first-2-years-of-c8886958be9f)
+- [https://www.thisisvoid.in/](https://www.thisisvoid.in/)
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
