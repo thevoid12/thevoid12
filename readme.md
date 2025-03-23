@@ -2,12 +2,11 @@
 ![profile viewes](https://komarev.com/ghpvc/?username=thevoid12&style=flat)
 
 
-<a href="https://linkedin.com/in/vinod-b-449541202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinod-b-449541202" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@thevoidd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thevoidd1" height="30" width="40" /></a>
-<a href="http://www.instagram.com/_iamvinod" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="thevoidd1" height="30" width="40" /></a>
+
 
 # 👋 &nbsp;Hi there
-I'm a Vinod and I am exploring the maze of computer Science.
+ I am exploring the maze of computer Science.
 
 &nbsp;
 <table tableborder=0>
