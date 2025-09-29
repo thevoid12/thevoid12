@@ -2,11 +2,10 @@
 ![profile viewes](https://komarev.com/ghpvc/?username=thevoid12&style=flat)
 
 
-<a href="https://www.youtube.com/@thevoidd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thevoidd1" height="30" width="40" /></a>
+<!-- <a href="https://www.youtube.com/@thevoidd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thevoidd1" height="30" width="40" /></a> -->
 
 
-# 👋 &nbsp;Hi there
- I am exploring the maze of computer Science.
+Hi I am void. I am confident enough that I can build anything ,Humble enough that there are too many things to learn about computers.
 
 &nbsp;
 <table tableborder=0>
@@ -80,14 +79,6 @@
 </p>
 
 &nbsp;
-
-<!-- ## 📊 &nbsp;Stats -->
-<!-- 
-![Vinod's Github Stats](https://github-readme-stats.vercel.app/api?username=thevoid12&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6) -->
-<!-- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thevoid12&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6) -->
-
-
 
 ## 📊 &nbsp;Dev Quotes
 
