@@ -1,4 +1,4 @@
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=flat&label=Twitter)](https://twitter.com/fit_fr_nothing) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/thevoid12?logo=GitHub&style=flat)](https://github.com/thevoid12) &nbsp;
+ [![GitHub followers](https://img.shields.io/github/followers/thevoid12?logo=GitHub&style=flat)](https://github.com/thevoid12) &nbsp;
 ![profile viewes](https://komarev.com/ghpvc/?username=thevoid12&style=flat)
 
 
