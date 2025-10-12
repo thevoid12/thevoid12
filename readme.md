@@ -24,12 +24,12 @@ Hi I am void. I am confident enough that I can build anything ,Humble enough tha
 	</a>
 </table>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thevoid12" alt="thevoid12" /></a> </p>
-
-## ✏️ &nbsp;Blog posts
+<!--
+## ✏️ &nbsp;Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
 
-- [https://www.thisisvoid.in/](https://www.thisisvoid.in/)
+<!-- [https://www.thisisvoid.in/](https://www.thisisvoid.in/) -->
 <!-- BLOG-POST-LIST:END -->
 
 &nbsp;
