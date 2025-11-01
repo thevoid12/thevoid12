@@ -2,9 +2,6 @@
 ![profile viewes](https://komarev.com/ghpvc/?username=thevoid12&style=flat)
 
 
-<!-- <a href="https://www.youtube.com/@thevoidd1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thevoidd1" height="30" width="40" /></a> -->
-
-
 Hi I am void. I am confident enough that I can build anything ,Humble enough that there are too many things to learn about computers.
 
 &nbsp;
