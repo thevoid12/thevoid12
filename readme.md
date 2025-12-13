@@ -2,7 +2,7 @@
 ![profile viewes](https://komarev.com/ghpvc/?username=thevoid12&style=flat)
 
 
-Hi I am void. I am confident enough that I can build anything ,Humble enough that there are too many things to learn about computers.
+Hi I am void. I am confident enough that I can build anything ,Humble enough that there are too many things to learn about computers. I dont understand thing which I built myself
 
 &nbsp;
 <table tableborder=0>
